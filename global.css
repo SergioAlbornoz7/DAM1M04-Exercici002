@@ -1,0 +1,10 @@
+.menu {
+    margin-bottom: 70px;
+    justify-content: space-evenly;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.menu > div:hover {
+    background-color: purple;
+}
